@@ -10,7 +10,6 @@
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
-  margin: auto;
 }
 
 .main {
@@ -18,6 +17,8 @@ body {
   margin: auto auto;
   background-color: white;
   border-radius: 15px;
+  position: relative;
+  top: 100px;
 }
 
 img {
